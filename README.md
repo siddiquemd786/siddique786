@@ -66,7 +66,7 @@ Skills:  PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-README.md(https://github.com/siddiquemd786/weblitical)
+
 
 
 
